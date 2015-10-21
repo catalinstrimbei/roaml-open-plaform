@@ -71,7 +71,7 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YGCl2rtyEeSYtpa1MDy9XQ"/>
           </children>
           <element xmi:type="uml:Stereotype" href="roa-metamodel.profile.uml#_YF400LtyEeSYtpa1MDy9XQ"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YF400rtyEeSYtpa1MDy9XQ" x="67" y="11" height="54"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YF400rtyEeSYtpa1MDy9XQ" x="67" y="12" height="54"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_A6bx8rteEeSP68hLFYGYZA"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A6bx87teEeSP68hLFYGYZA"/>
