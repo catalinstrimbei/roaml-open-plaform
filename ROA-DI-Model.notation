@@ -188,14 +188,6 @@
     <element xmi:type="uml:Class" href="ROA-DI-Model.uml#_mS4EcHgeEeW929tfEH9vCg"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mS4ry3geEeW929tfEH9vCg" x="91" y="182" width="141"/>
   </children>
-  <children xmi:type="notation:Shape" xmi:id="_p_I60HgeEeW929tfEH9vCg" type="StereotypeComment">
-    <styles xmi:type="notation:TitleStyle" xmi:id="_p_I60XgeEeW929tfEH9vCg" showTitle="true"/>
-    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_p_I603geEeW929tfEH9vCg" name="BASE_ELEMENT">
-      <eObjectValue xmi:type="uml:Class" href="ROA-DI-Model.uml#_mS4EcHgeEeW929tfEH9vCg"/>
-    </styles>
-    <element xsi:nil="true"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p_I60ngeEeW929tfEH9vCg" x="293" y="56"/>
-  </children>
   <children xmi:type="notation:Shape" xmi:id="_sPXRAHgeEeW929tfEH9vCg" type="2008">
     <children xmi:type="notation:DecorationNode" xmi:id="_sPXRAXgeEeW929tfEH9vCg" type="5029"/>
     <children xmi:type="notation:DecorationNode" xmi:id="_sPXRAngeEeW929tfEH9vCg" type="8510">
@@ -450,16 +442,6 @@
     <owner xmi:type="uml:Model" href="ROA-DI-Model.uml#_tu4_gHgdEeW929tfEH9vCg"/>
   </styles>
   <element xmi:type="uml:Model" href="ROA-DI-Model.uml#_tu4_gHgdEeW929tfEH9vCg"/>
-  <edges xmi:type="notation:Connector" xmi:id="_p_I61HgeEeW929tfEH9vCg" type="StereotypeCommentLink" source="_mS4rgHgeEeW929tfEH9vCg" target="_p_I60HgeEeW929tfEH9vCg">
-    <styles xmi:type="notation:FontStyle" xmi:id="_p_I61XgeEeW929tfEH9vCg"/>
-    <styles xmi:type="notation:EObjectValueStyle" xmi:id="_p_I62XgeEeW929tfEH9vCg" name="BASE_ELEMENT">
-      <eObjectValue xmi:type="uml:Class" href="ROA-DI-Model.uml#_mS4EcHgeEeW929tfEH9vCg"/>
-    </styles>
-    <element xsi:nil="true"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_p_I61ngeEeW929tfEH9vCg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_p_I613geEeW929tfEH9vCg"/>
-    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_p_I62HgeEeW929tfEH9vCg"/>
-  </edges>
   <edges xmi:type="notation:Connector" xmi:id="_eJlzsHgfEeW929tfEH9vCg" type="4002" source="_sPXRAHgeEeW929tfEH9vCg" target="_mS4rgHgeEeW929tfEH9vCg">
     <children xmi:type="notation:DecorationNode" xmi:id="_eJlzs3gfEeW929tfEH9vCg" type="6007">
       <layoutConstraint xmi:type="notation:Location" xmi:id="_eJlztHgfEeW929tfEH9vCg" y="40"/>
