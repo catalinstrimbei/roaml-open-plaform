@@ -589,7 +589,7 @@
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RggW0HggEeW929tfEH9vCg" source="PapyrusCSSForceValue">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RggW0XggEeW929tfEH9vCg" key="visible" value="true"/>
       </eAnnotations>
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_Kpy9unggEeW929tfEH9vCg" y="20"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Kpy9unggEeW929tfEH9vCg" x="-13" y="25"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_Kpy9u3ggEeW929tfEH9vCg" visible="false" type="6033">
       <layoutConstraint xmi:type="notation:Location" xmi:id="_Kpy9vHggEeW929tfEH9vCg" y="20"/>
